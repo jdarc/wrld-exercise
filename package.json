@@ -1,0 +1,11 @@
+{
+  "name": "wrld-exercise",
+  "version": "1.0.0",
+  "description": "Wrld Technical Exercise",
+  "main": "app.js",
+  "author": "Jean d'Arc",
+  "license": "MIT",
+  "dependencies": {
+    "kd-tree-javascript": "^1.0.3"
+  }
+}
